@@ -1,3 +1,6 @@
+/*
+GO Library program that renders and outputs JSON for books. GET, POST, and PATCH routes are all used.
+*/
 package main
 
 import (
